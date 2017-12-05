@@ -23,7 +23,7 @@
 
 	<groupId>org.forgerock.am</groupId>
 	<artifactId>account-lockout-auth-tree-node</artifactId>
-	<version>5.5.0</version>
+	<version>6.0.0-SNAPSHOT</version>
 	<name>Account Lockout Authentication Node</name>
 	<description>An Authentication Tree Node for ForgeRock's Identity Platform</description>
 
